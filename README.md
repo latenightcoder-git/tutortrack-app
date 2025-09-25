@@ -107,7 +107,6 @@ private static final String DB_PASSWORD = "your_password";
 Compile and run:
 
 ```bash
-#!/bin/bash
 mvn clean compile
 mvn exec:java -Dexec.mainClass="com.example.TutorialManagementApp"
 ```
