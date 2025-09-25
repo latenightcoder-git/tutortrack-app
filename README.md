@@ -113,15 +113,17 @@ mvn exec:java -Dexec.mainClass="com.example.TutorialManagementApp"
 ```
 ---
 
+
 🧪 Running Tests
 
 JUnit test cases cover:
-
+```plaintext
 ✅ Add Tutorial (success + error)
 ✅ Get Tutorial by ID (success + not found)
 ✅ Get All Tutorials (empty + with data)
 ✅ Update Tutorial (success + not found)
 ✅ Delete Tutorial (success + not found)
+```
 
 Run tests with Maven:
 ```bash
@@ -131,10 +133,11 @@ mvn test
 ---
 
 📖 Learning Outcomes
-
+```plaintext
 Building menu-driven Core Java applications
 Working with JDBC & Oracle DB
 Applying DAO design pattern
 Writing and handling custom exceptions
 Using Lombok for cleaner code
 Writing JUnit tests for DB-integrated apps
+```
