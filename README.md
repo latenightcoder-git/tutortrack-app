@@ -1,5 +1,5 @@
 # TutorTrack App – Tutorial Management System
-
+![Hits](https://hits.sh/github.com/latenightcoder-git/tutortrack-app.svg?style=for-the-badge&label=Views&color=blue)
 A **Core Java console-based Tutorial Management System** that uses **JDBC with Oracle Database** for persistence.  
 The project is fully **menu-driven**, follows an **MVC-like structure** (DAO, model, util, exceptions), and includes **JUnit 5 test cases** to validate CRUD operations.  
 
