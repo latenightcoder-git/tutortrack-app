@@ -1,0 +1,225 @@
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 2
+
+--- All Tutorials ---
+No tutorials found.
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 1
+
+--- Add New Tutorial ---
+Enter Title: Java
+Enter Author: Amitava Sir
+Enter URL: www.foreverjava.com
+Enter Published Date (YYYY-MM-DD, leave blank if unknown): 2025-09-25
+Tutorial added successfully! ID: 1
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 1
+
+--- Add New Tutorial ---
+Enter Title: Python
+Enter Author: Amitava Sir
+Enter URL: www.pythonisasnake.com
+Enter Published Date (YYYY-MM-DD, leave blank if unknown): 2026-10-25
+Tutorial added successfully! ID: 2
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 1
+
+--- Add New Tutorial ---
+Enter Title: SQL
+Enter Author: Amitava Sir
+Enter URL: www.sql.com
+Enter Published Date (YYYY-MM-DD, leave blank if unknown): 2027-05-25
+Tutorial added successfully! ID: 3
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 2
+
+--- All Tutorials ---
+Tutorial(id=1, title=Java, author=Amitava Sir, url=www.foreverjava.com, publishedDate=2025-09-25)
+Tutorial(id=2, title=Python, author=Amitava Sir, url=www.pythonisasnake.com, publishedDate=2026-10-25)
+Tutorial(id=3, title=SQL, author=Amitava Sir, url=www.sql.com, publishedDate=2027-05-25)
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 3
+
+--- View Tutorial by ID ---
+Enter Tutorial ID: 2
+Found Tutorial: Tutorial(id=2, title=Python, author=Amitava Sir, url=www.pythonisasnake.com, publishedDate=2026-10-25)
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 4
+
+--- Update Tutorial ---
+Enter Tutorial ID to update: 2
+Existing Tutorial: Tutorial(id=2, title=Python, author=Amitava Sir, url=www.pythonisasnake.com, publishedDate=2026-10-25)
+Enter New Title (leave blank to keep current: 'Python'): 
+Enter New Author (leave blank to keep current: 'Amitava Sir'): 
+Enter New URL (leave blank to keep current: 'www.pythonisasnake.com'): www.learnpython.com
+Enter New Published Date (YYYY-MM-DD, leave blank to keep current: 2026-10-25): 
+Tutorial updated successfully!
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 2
+
+--- All Tutorials ---
+Tutorial(id=1, title=Java, author=Amitava Sir, url=www.foreverjava.com, publishedDate=2025-09-25)
+Tutorial(id=2, title=Python, author=Amitava Sir, url=www.learnpython.com, publishedDate=2026-10-25)
+Tutorial(id=3, title=SQL, author=Amitava Sir, url=www.sql.com, publishedDate=2027-05-25)
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 1
+
+--- Add New Tutorial ---
+Enter Title: Mathematics
+Enter Author: Miss.Florence
+Enter URL: www.mathsmakesusgenius.com
+Enter Published Date (YYYY-MM-DD, leave blank if unknown): 2028-04-30
+Tutorial added successfully! ID: 4
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 2
+
+--- All Tutorials ---
+Tutorial(id=1, title=Java, author=Amitava Sir, url=www.foreverjava.com, publishedDate=2025-09-25)
+Tutorial(id=2, title=Python, author=Amitava Sir, url=www.learnpython.com, publishedDate=2026-10-25)
+Tutorial(id=3, title=SQL, author=Amitava Sir, url=www.sql.com, publishedDate=2027-05-25)
+Tutorial(id=4, title=Mathematics, author=Miss.Florence, url=www.mathsmakesusgenius.com, publishedDate=2028-04-30)
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 5
+
+--- Delete Tutorial ---
+Enter Tutorial ID to delete: 4
+Tutorial with ID 4 deleted successfully!
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 2
+
+--- All Tutorials ---
+Tutorial(id=1, title=Java, author=Amitava Sir, url=www.foreverjava.com, publishedDate=2025-09-25)
+Tutorial(id=2, title=Python, author=Amitava Sir, url=www.learnpython.com, publishedDate=2026-10-25)
+Tutorial(id=3, title=SQL, author=Amitava Sir, url=www.sql.com, publishedDate=2027-05-25)
+
+Press Enter to continue...
+
+
+--- Tutorial Management System ---
+1. Add New Tutorial
+2. View All Tutorials
+3. View Tutorial by ID
+4. Update Tutorial
+5. Delete Tutorial
+0. Exit
+Enter your choice: 0
+Exiting Tutorial Management System.Goodbye!
+
+Press Enter to continue...
